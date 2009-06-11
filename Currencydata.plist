@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>USD United States Dollers</key>
+	<integer>1</integer>
+	<key>EUR Euro</key>
+	<real>1.38826</real>
+	<key>AUD Australia Dollors</key>
+	<real>0.783147</real>
+	<key>CAD Canada Doller</key>
+	<real>0.89515</real>
+	<key>CHF Swizerland France</key>
+	<real>0.918804</real>
+	<key>CNY China Yaar Renminbi</key>
+	<real>0.146449</real>
+	<key>GBP United Kingdom ponds</key>
+	<real>1.59623</real>
+	<key>JPY Japan yen</key>
+	<real>0.0103295</real>
+	<key>MXN Mexico Pesos</key>
+	<real>0.0757881</real>
+	<key>RUB Russian Rubles </key>
+	<real>0.0319937</real>
+	<key>ZAR South Africa Rand</key>
+	<real>0.123394</real>
+</dict>
+</plist>
